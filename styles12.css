@@ -1,0 +1,86 @@
+.op{
+    background-image: url(./imagenes/55968127-papel-de-color-gris-oscuro-útil-como-una-textura-de-fondo.jpg);
+    background-size: cover;
+    width: 1337px;
+    height: 1000px;
+}
+
+.pit{
+padding-top: 200px;
+}
+
+.op1{
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    padding-right: 655px;
+    padding-top: 100px;
+    font-weight: 900;
+}
+
+.op2{
+    width: 500px;
+    height: 100px;
+    color: white;
+    padding-left: 150px;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    height: 70px;
+    width: 1317px;
+    background-color: rgb( 0, 0, 0);
+    align-items: center;
+    padding:10px;
+}
+
+.logo{
+    display: flex;
+    align-items: center;
+}
+    
+.logo-img{
+height:50px;
+margin-right:10px;
+}
+
+.contenedor1{
+    margin-right: 5px;
+ align-items: center;
+
+}
+
+    #menu{
+     display: inline;
+     margin-right: 5px; 
+     padding: 10px;
+    }
+
+    .Articulo{
+        width: 30px;
+        padding-top: 35px;
+        padding-right: 10px;
+        padding-left: 10px;
+        padding-bottom: 35px;
+    }
+
+    h1{
+   font-size: 40px;
+    color: white;
+    }
+ 
+    a{
+        text-decoration: none;
+        color: white;
+    }
+
+    a:hover{
+        color: rgb(170, 68, 0);
+        background-color: rgba(80, 6, 6, 0.849);
+    }
+
+    .Vinculo:hover{
+        background-color: black;
+        height: 70px;
+    }

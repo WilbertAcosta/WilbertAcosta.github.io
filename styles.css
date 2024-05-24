@@ -1,0 +1,239 @@
+*{
+padding: 0;
+margin: 0;
+}
+
+body{
+    position: relative;
+    width: 50%;
+    height: 50%;
+}
+
+.full-height{
+  height: 100vh;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    height: 70px;
+    width: 1400px;
+    background-color: rgb( 0, 0, 0);
+    align-items: center;
+    padding:10px;
+}
+
+.logo{
+    display: flex;
+    align-items: center;
+}
+    
+.logo-img{
+    width: 150px;
+height:80px;
+margin-right:10px;
+}
+
+.contenedor1{
+    margin-right: 5px;
+ align-items: center;
+}
+
+    #menu{
+     display: inline;
+     margin-right: 5px; 
+     padding: 10px;
+    }
+
+    .Articulo{
+        width: 30px;
+        padding-top: 35px;
+        padding-right: 10px;
+        padding-left: 10px;
+        padding-bottom: 35px;
+    }
+
+    h1{
+   font-size: 40px;
+    color: white;
+    }
+ 
+    a{
+        text-decoration: none;
+        color: white;
+    }
+
+    a:hover{
+        color: rgb( 0, 110, 170);
+        background-color: rgb(6, 54, 80);
+    }
+
+    .contenedor2{
+        margin-top: -715px;
+        width: 650px;
+        height:680px;
+        padding-left: 200px;
+        margin-left: 225px;
+    align-items: center;
+ }
+
+    .Imagen0{
+        width: 1420px;
+        height: 750px;
+    }
+
+    .Encabezado2{
+        color: white;
+        margin-top: -605px;
+        margin-left: 585px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight:900;
+    }
+
+    .lista{
+        color: white;
+        height: 50%;
+        width: 50%;
+        position: relative;
+        margin-left: 610px;
+        margin-top: 25px;
+        padding-left: 50px;
+        padding-right: 50px;
+        white-space: nowrap;
+    }
+
+    .indicadores{
+        position: fixed;
+    }
+
+    .indicador{
+        margin: 1rem 0;
+    }
+
+    .black{
+       width: 675px;
+height: 680px;
+border-radius: 10px;
+    }
+
+    .contenedor3{
+        width: 500px;
+        padding-top: 165px;
+        padding-left: 100px;
+    }
+
+    .text{
+        letter-spacing: 2px;
+        word-spacing: 9px;
+        line-height: 30px;
+        font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+    }
+
+    .Encabezado4{
+    display: inline;
+    font-size: 50px;
+    }
+
+    .contenedor5{
+        width: 500px;
+        margin-top: -550px;
+        padding-left: 900px;
+    }
+
+    .contenedor6{
+        width: 500px;
+        padding-left: 830px;
+        margin: 45px 10px;
+    }
+
+    .contenedor4{
+        width: 500px;
+        margin: 45px 10px;
+        padding-left: 100px;
+    }
+
+    .Encabezado3{
+        display: inline;
+        font-size: 50px;
+    }
+
+    .Encabezado1{
+        font-weight:600;
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+    }
+
+   .subtitulo{
+    width: 1000px;
+    padding-left: 80px;
+   }
+
+   .pie-pagina{
+    width: 1420px;
+   background-color: #0a141d;
+   }
+
+   .pie-pagina .box{
+    width: 100%;
+    margin: auto;
+    max-width: 1420px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 50px;
+    padding: 45px 0px;
+   }
+
+   .pie-pagina .box .container figure{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   }
+
+   .pie-pagina figure .box .container img{
+    width: 250px;
+   }
+
+   .pie-pagina .box .container h2{
+    color: white;
+    margin-bottom: 25px;
+    font-size: 20px;
+   }
+
+   .pie-pagina .box .container p{
+    color: white;
+    margin-bottom: 10px;
+   }
+
+   .pie-pagina .box .iconos a{
+    display: inline-block;
+    text-decoration: none;
+    width: 45px;
+    height: 45px;
+    color: white;
+    margin-right: 10px;
+   } 
+
+   .pie-pagina .box .iconos a:hover{
+    background-color:  #0a141d;
+   }
+
+   .pie-pagina .box2{
+    background-color: #0a1a2a;
+    padding: 15px 10px;
+    text-align: center;
+    color: white;
+   }
+
+   img{
+    width: 250px;
+    height: 250px;
+   }
+
+   .rt{
+    width: 700px;
+height: 700px;
+background-color: red;
+}
+
+    
